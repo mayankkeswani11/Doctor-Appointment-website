@@ -1,17 +1,28 @@
-Register page with validation
-![Screenshot 2024-05-30 201139](https://github.com/mayankkeswani11/Doctor-Appointment-website/assets/100658657/d6ab7809-9542-477c-b093-1a3ac71d833c)
+REGISTER PAGE WITH VALIDATIONS
 
-REGISTER PAGE
-![Screenshot 2024-05-30 201255](https://github.com/mayankkeswani11/Doctor-Appointment-website/assets/100658657/6d10ee51-d803-4a8e-b811-73bdc1f05519)
+![Screenshot 2024-05-30 201139](https://github.com/mayankkeswani11/Doctor-Appointment-website/assets/100658657/403fcaab-5751-4634-8dcf-59e570f26f35)
 
 LOGIN PAGE
-![Screenshot 2024-05-30 201255](https://github.com/mayankkeswani11/Doctor-Appointment-website/assets/100658657/63cdb0ba-4999-4286-8bd3-af31ea9764dd)
+
+![Screenshot 2024-05-30 201255](https://github.com/mayankkeswani11/Doctor-Appointment-website/assets/100658657/2040b12a-51a7-41e1-8643-e43dd782a195)
 
 USER PANEL
-![Screenshot 2024-05-30 201315](https://github.com/mayankkeswani11/Doctor-Appointment-website/assets/100658657/3d0a3dc7-1f03-48de-83f4-849e4f22970a)
 
-doctors can register
-![Screenshot 2024-05-30 201416](https://github.com/mayankkeswani11/Doctor-Appointment-website/assets/100658657/4d551a2a-35e8-41e1-bb77-6c2309f114f2)
+![Screenshot 2024-05-30 201315](https://github.com/mayankkeswani11/Doctor-Appointment-website/assets/100658657/bb75dace-dcab-4560-b86e-752f39335d91)
 
-ADMIN PANEL
-![Screenshot 2024-05-30 201500](https://github.com/mayankkeswani11/Doctor-Appointment-website/assets/100658657/5e4877b1-eab5-446d-a1b6-d457bf7a4add)
+Doctors can apply for their specialisation to take patients from the website
+
+![Screenshot 2024-05-30 202259](https://github.com/mayankkeswani11/Doctor-Appointment-website/assets/100658657/a9d905dc-ff08-4b50-8f71-f3a1f6510841)
+
+Admin panel notification request
+
+![Screenshot 2024-05-30 202405](https://github.com/mayankkeswani11/Doctor-Appointment-website/assets/100658657/f0cd469c-b4d2-46bf-ae7a-7c75e3e7efcd)
+
+Admin can approve doctors
+
+![Screenshot 2024-05-30 202347](https://github.com/mayankkeswani11/Doctor-Appointment-website/assets/100658657/a72d197d-4b8a-4cf8-925d-75b2c84f8612)
+
+![Screenshot 2024-05-30 202422](https://github.com/mayankkeswani11/Doctor-Appointment-website/assets/100658657/b4e9aea1-743e-4418-8884-5e6b7b64390d)
+
+
+![Screenshot 2024-05-30 201521](https://github.com/mayankkeswani11/Doctor-Appointment-website/assets/100658657/7adb6e70-e921-4a24-ac61-5c23e2a25b74)
